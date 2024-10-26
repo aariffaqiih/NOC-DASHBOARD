@@ -1,0 +1,6 @@
+.vertical-text {
+  display: block;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: Arial, sans-serif; /* Pilih font sesuai kebutuhan */
+}
